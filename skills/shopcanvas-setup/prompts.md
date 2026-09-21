@@ -2,7 +2,7 @@
 
 Copy-paste for [Framer Agents](https://www.framer.com/agents/). This public stub does **not** run private sync-core; prefer the Shop Canvas **plugin** for Connect / Sync / Runtime.
 
-Remix first: https://framer.link/bDMDw5T
+Remix first: https://framer.link/bDMDw5T?via=molham51
 
 ---
 
