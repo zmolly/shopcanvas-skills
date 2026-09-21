@@ -7,7 +7,7 @@ description: >-
   plugin-owned custom code, publish only on yes). Use when someone wants to connect
   Shopify to a Shop Canvas Framer project, check setup, or use Framer Agents with
   Shop Canvas. Full sync-core recipes and scripts are buyer/private — not in this stub.
-  Remix: https://framer.link/bDMDw5T
+  Remix: https://framer.link/bDMDw5T?via=molham51
 metadata:
   version: "0.1.0-public-stub"
   author: Shop Canvas
@@ -36,7 +36,7 @@ Buyers get the full private skill with the product. Until then, **use the plugin
 
 ## Buyer path (always)
 
-1. **Remix** the starter: https://framer.link/bDMDw5T  
+1. **Remix** the starter: https://framer.link/bDMDw5T?via=molham51  
 2. Open the **Shop Canvas** plugin in Framer → **Connect** (domain + public Storefront token — never paste the token into chat)  
 3. **Sync** catalogue in the plugin (first heavy sync)  
 4. **Runtime** tab → copy snippet → person pastes into **Site Settings → Custom Code** (not plugin-owned code)  
