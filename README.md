@@ -14,7 +14,7 @@ npx skills add zmolly/shopcanvas-skills --skill shopcanvas-setup
 | --- | --- |
 | `skills/shopcanvas-setup/` | Public stub — safety, remix + plugin path, Framer Agents prompts |
 
-Remix starter: https://framer.link/bDMDw5T  
+Remix starter: https://framer.link/bDMDw5T?via=molham51  
 Product site: https://shopcanvas.ai/
 
 ## Not included (on purpose)
